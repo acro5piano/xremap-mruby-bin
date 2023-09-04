@@ -1,6 +1,6 @@
 # xremap-x11-bin
 
-Executable binary of original [xremap](https://github.com/k0kubun/xremap) wrote in mruby. All credit goest to https://github.com/k0kubun/xremap
+Executable binary of original [xremap](https://github.com/k0kubun/xremap) wrote in mruby. All credit goes to https://github.com/k0kubun/xremap
 
 # Why
 
